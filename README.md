@@ -1,2 +1,2 @@
 # Lab-Assignment-3
-# This is my Lab 3 of 
+# This is my Lab 3 of Software Engineering
